@@ -8,12 +8,12 @@ import { HashRouter as Router } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <Routes>
+  <Router>
     <React.StrictMode>
       <Provider store={store}>
         <App />
       </Provider>
     </React.StrictMode>
-  </Routes>,
+  </Router>,
   //document.getElementById('root')
 );

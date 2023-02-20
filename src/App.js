@@ -4,6 +4,7 @@ import {Memory} from './Memory';
 import {useSelector, useDispatch} from 'react-redux';
 import {loadDay, startAddingMemory} from './actions';
 import {ProgressBar} from 'react-fetch-progressbar';
+import {Routes,Route} from 'react-router'
 
 const date = new Date();
 const year = date.getFullYear();
