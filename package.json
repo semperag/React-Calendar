@@ -2,7 +2,7 @@
   "name": "calendar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://semperag1.github.io/react-calendar",
+  "homepage": "https://semperag.github.io/reactClient",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
