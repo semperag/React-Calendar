@@ -140,6 +140,8 @@ function App() {
 
   // All the attributes of the website
   return (
+    <Routes>
+    <Route path="/">
     <div className="memories-root">
       <div id="app-name">
         <span id="calendar">Calendar</span> 
@@ -281,6 +283,8 @@ function App() {
         </div>
       </div>
     </div>
+    </Route>
+    </Routes>
   );
 }
 
