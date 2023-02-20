@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/semperag1.github.io/static/css/main.adedc0d9.css",
-    "main.js": "/semperag1.github.io/static/js/main.49940451.js",
-    "index.html": "/semperag1.github.io/index.html",
-    "main.adedc0d9.css.map": "/semperag1.github.io/static/css/main.adedc0d9.css.map",
-    "main.49940451.js.map": "/semperag1.github.io/static/js/main.49940451.js.map"
+    "main.css": "/reactClient/static/css/main.adedc0d9.css",
+    "main.js": "/reactClient/static/js/main.49940451.js",
+    "index.html": "/reactClient/index.html",
+    "main.adedc0d9.css.map": "/reactClient/static/css/main.adedc0d9.css.map",
+    "main.49940451.js.map": "/reactClient/static/js/main.49940451.js.map"
   },
   "entrypoints": [
     "static/css/main.adedc0d9.css",
