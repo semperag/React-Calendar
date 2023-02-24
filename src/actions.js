@@ -63,7 +63,7 @@ function checkForErrors(response) {
     return response;
 }
 
-const host = 'https://my-json-server.typicode.com/semperag/React-Calendar-JSON-DB';
+const host = 'https://memories-zwgu.onrender.com';
 
 // Go to url where memory is stored, if any exist, make then readable by json
 // then load the events on the website
